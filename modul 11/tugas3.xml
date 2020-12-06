@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<dataDiri>
+    <nama>
+        <awal>Rahmat</awal>
+        <akhir>Setiawan</akhir>
+    </nama>
+    
+    <jenisKelamin>Laki-laki</jenisKelamin>
+
+    <alamat>
+        <kecamatan>Kedaton</kecamatan>
+        <kota>Bandar Lampung</kota>
+        <provinsi>Lampung</provinsi>
+        <negara>Indonesia</negara>
+    </alamat>
+
+    <orangTua>
+        <ayah>alm.Suyono</ayah>
+        <ibu> Karomah </ibu>
+    </orangTua>
+
+    <sosialMedia>
+        <github>rahmatstwn</github>
+        <instagram>rahmatsetiawan_</instagram>
+    </sosialMedia>
+</dataDiri>
