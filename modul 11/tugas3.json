@@ -1,0 +1,19 @@
+{ 
+    "DataDiri" : {
+        "nama" : "Rahmat Setiawan",
+        "jenisKelamin" : "Laki-laki",
+        "usia"  : "21",
+        "hobi" : ["game","game", "tidur"],
+        "MediaSosial" : {
+           "github" : "rahmatstwn",
+            "instagram" : "rahmatsetiawan_",
+        },
+        "Alamat" : {
+            "Kecamatan" : "Kedaton",
+            "Kota" : "Bandar Lampung",
+            "Provinsi"  : "Lampung"
+        }
+        
+    }
+
+}
