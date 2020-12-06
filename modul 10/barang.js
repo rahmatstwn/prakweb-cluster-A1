@@ -1,4 +1,4 @@
-let daftarAlat = [];
+let daftarAlat =[];
 const list = document.getElementById('show');
 const barang = document.getElementById('alat');
     
